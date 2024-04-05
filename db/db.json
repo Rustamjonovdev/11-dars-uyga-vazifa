@@ -1,0 +1,84 @@
+{
+    "recipies": [
+        {
+            "id":"1",
+            "title": "Palov",
+            "cookingTime": "120 minutes",
+            "ingredients": ["carrot", "rice", "oil", "onion", "meat", "spices"],
+            "method": "Morbi cursus tellus nec iaculis dapibus. Etiam eget dolor maximus, malesuada nunc et, viverra dolor. Donec laoreet sodales est. Sed sed magna vestibulum, fringilla metus suscipit, convallis neque. Phasellus vestibulum dolor non ipsum fringilla, quis accumsan dui porta. Pellentesque suscipit lectus velit, vel faucibus sem ultrices id. Nunc sodales pretium justo, ac ullamcorper quam cursus tempus.",
+            "imageUrl": "https://uzbekistan.travel/storage/app/media/Plov_s_aivoi.jpg"
+        },
+        {
+            "id":"2",
+            "title": "Kokat Somsa",  
+            "cookingTime": "40 minutes",
+            "ingredients": ["flour", "carrot", "rice", "oil", "onion", "meat", "spices"],
+            "method": "Morbi cursus tellus nec iaculis dapibus. Etiam eget dolor maximus, malesuada nunc et, viverra dolor. Donec laoreet sodales est. Sed sed magna vestibulum, fringilla metus suscipit, convallis neque. Phasellus vestibulum dolor non ipsum fringilla, quis accumsan dui porta. Pellentesque suscipit lectus velit, vel faucibus sem ultrices id. Nunc sodales pretium justo, ac ullamcorper quam cursus tempus.",
+            "imageUrl": "https://uzbloknot.files.wordpress.com/2020/09/img_20200919_135532_6236430340984439999247.jpg"
+        },
+        {
+            "id": "3",
+            "title" : "Chuchvara",
+            "cookingTime":"40 minutes",
+            "ingredients":["onion", "flour", "carrot", "onion", "meat", "meat"],
+            "method":"Morbi cursus tellus nec iaculis dapibus. Etiam eget dolor maximus, malesuada nunc et, viverra dolor. Donec laoreet sodales est. Sed sed magna vestibulum, fringilla metus suscipit, convallis neque. Phasellus vestibulum dolor non ipsum fringilla, quis accumsan dui porta. Pellentesque suscipit lectus velit, vel faucibus sem ultrices id. Nunc sodales pretium justo, ac ullamcorper quam cursus tempus.",
+            "imageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2022/02/201_1643971179-e1643971274658-1280x640.jpg"
+        },
+        {
+            "id": "4",
+            "title": "Lag'mon",
+            "cookingTime":"60 minutes",
+            "ingredients" : ["carrot", "potato", "flour", "meat", "oil", "onion", "spices"],
+            "method":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "imageUrl": "https://hlebopechka.ru/forum/result-photo/430315.jpg"
+        },
+        {
+            "id":"5",
+            "title": "Kabob",
+            "cookingTime":"40 minutes",
+            "ingredients": ["meat", "oil", "onion", "onion", "spices"],
+            "method":"Morbi cursus tellus nec iaculis dapibus. Etiam eget dolor maximus, malesuada nunc et, viverra dolor. Donec laoreet sodales est. Sed sed magna vestibulum, fringilla metus suscipit, convallis neque. Phasellus vestibulum dolor non ipsum fringilla, quis accumsan dui porta. Pellentesque suscipit lectus velit, vel faucibus sem ultrices id. Nunc sodales pretium justo, ac ullamcorper quam cursus tempus.",
+            "imageUrl":"https://silkroadrecipes.com/wp-content/uploads/2020/07/Kabab-Koobideh-Beef-and-Lamb-Kabobs-square.jpg"
+        },
+        {
+            "id":"6",
+            "title": "Mastava",
+            "cookingTime":"40 minutes",
+            "ingredients":["meat", "oil", "carrot", "potato", "onion", "rice"],
+            "method":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "imageUrl" :"https://www.vsegdavkusno.ru/assets/images/recipes/1517/1.jpg"
+        },
+        {
+            "id":"7",
+            "title": "Qozon kabob",
+            "cookingTime":"60 minutes",
+            "ingredients":["meat", "oil", "potato", "onion", "spices"],
+            "method":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "imageUrl":"https://zira.uz/wp-content/uploads/2017/11/hiva-18.jpg"
+        },
+        {
+            "id":"8",
+            "title": "Shovla",
+            "cookingTime":"40 minutes",
+            "ingredients":["carrot", "meat", "oil","onion","potato", "rice"],
+            "method":"Morbi cursus tellus nec iaculis dapibus. Etiam eget dolor maximus, malesuada nunc et, viverra dolor. Donec laoreet sodales est. Sed sed magna vestibulum, fringilla metus suscipit, convallis neque. Phasellus vestibulum dolor non ipsum fringilla, quis accumsan dui porta. Pellentesque suscipit lectus velit, vel faucibus sem ultrices id. Nunc sodales pretium justo, ac ullamcorper quam cursus tempus.",
+            "imageUrl": "https://i.ytimg.com/vi/AyR6usT7UNw/maxresdefault.jpg"
+        },
+        {
+            "id":"9",
+            "title":"Manti",
+            "cookingTime":"120 minutes",
+            "ingredients":["flour", "meat", "onion", "spices", "water"],
+            "method":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "imageUrl":"https://i.pinimg.com/originals/44/bf/7f/44bf7f33b640853e69c9ebc4c31ce98c.jpg"
+        },
+        {
+            "id":"10",
+            "title":"Norin",
+            "cookingTime":"120 minutes",
+            "ingredients":["flour", "qazi", "oil", "water", "spices"],
+            "method":"Morbi cursus tellus nec iaculis dapibus. Etiam eget dolor maximus, malesuada nunc et, viverra dolor. Donec laoreet sodales est. Sed sed magna vestibulum, fringilla metus suscipit, convallis neque. Phasellus vestibulum dolor non ipsum fringilla, quis accumsan dui porta. Pellentesque suscipit lectus velit, vel faucibus sem ultrices id. Nunc sodales pretium justo, ac ullamcorper quam cursus tempus.",
+            "imageUrl":"https://shosh.uz/wp-content/uploads/2015/10/naryn-recept-500x330.jpg"
+        }
+    ]
+}
